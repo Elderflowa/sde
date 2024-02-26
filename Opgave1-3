@@ -1,0 +1,13 @@
+OPGAVE 1.3
+
+Variablen "x" i linje 2 er et input der har datatypen integer.
+
+Datatypen af brugerens input er også integer.
+
+Det er nødvendigt at ændre datatyperne på inputtet så de kan printet
+sammen med andet text.
+
+I linje 6 får x, y og resultat variablerne datatypen string (str).
+
+Man kan finde datatypen på en variabel ved at køre koden:
+type(), som man kan printe ved hjælp af print(type()).

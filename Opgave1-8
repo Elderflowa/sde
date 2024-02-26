@@ -1,0 +1,5 @@
+OPGAVE 1.8
+
+Koden vil printe "20".
+Variablerne "i" og "value" starter med værdien 10
+Operatoren "+=" tilføjer variablen "value" til variablen "i".

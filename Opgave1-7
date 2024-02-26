@@ -1,0 +1,9 @@
+OPGAVE 1.7
+
+Koden vil printe "2".
+
+Variablen starter med værdien 10, men bliver overskrevet til 1.
+Derefter bliver der lagt 1 til med operatoren "+=".
+
+Hvis man sætter koden ind og kører den advarer IDE om at vi re-definere
+variablen "i" uden at have brugt den.
