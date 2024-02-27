@@ -1,0 +1,4 @@
+OPGAVE 2.7
+
+Den vil printe "Alder er ikke 18 år", da 17 ikke er lige med 18.
+Denne gang er der ikke skrevet en fejl i koden.

@@ -1,0 +1,7 @@
+OPGAVE 2.6
+
+Den giver fejl.
+
+If-sætningen skal rettes til:
+
+"if alder == 18:"

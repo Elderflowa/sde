@@ -1,0 +1,9 @@
+#OPGAVE 3.3
+
+Hvis man ændrer start værdien af opgave 3.1 får den resultatet 0,
+mens opgave 3.2 får resultatet 45 stadigvæk.
+
+Hvis man dog ændrer startværdien i begge til 10 istedet for 1,
+får de et andet resultat.
+
+Da betingelsen i loopet er opfyldt med det samme vil det printe 0.

@@ -1,0 +1,4 @@
+OPGAVE 2.5
+
+Den vil printe "Alder er ikke 18 år", da operatoren "!="
+betyder "ikke-lige med", og 17 er ikke lige med 18.
