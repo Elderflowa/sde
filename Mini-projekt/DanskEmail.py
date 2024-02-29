@@ -19,6 +19,7 @@ def emailCheck():
                 print("Your email is a valid DK email.")
             else:
                 print("Your email is not a valid DK email.")
+                emailCheck()
         elif 7 >= length or 30 <= length:
             print("Your email was",length,"characters long.")
             print("It must be between 8-30 characters long.")
