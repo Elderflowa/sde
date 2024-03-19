@@ -11,7 +11,7 @@ def WorkCheck():
 #HVIS ANKOMSTTIMEN ER HØJERE NUMERISK END AFGANG
         if arrivalHour > departHour:
             arrivalHourDiff = abs(arrivalHour - departHour)
-            workTime = 24 - arrivalHourDiff
+            workTime = 23 - arrivalHourDiff
             if workTimeMinute > 60:
                 workTimeMinute -= 60
                 print("Du har været her", workTime,"timer og", workTimeMinute, "minutter")
