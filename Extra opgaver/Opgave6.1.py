@@ -10,3 +10,5 @@ while count <= range:
 	num1, num2 = num2, next_number
 	next_number = num1 + num2
 print()
+
+5 5 5 4 segments cifre ændring
