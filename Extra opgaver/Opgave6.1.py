@@ -1,14 +1,11 @@
 range = 1000
 num1 = 0
 num2 = 1
-next_number = num2
+fibonacci = num2
 count = 1
 
-while count <= range:
-	print(next_number, end="\n")
+while fibonacci <= range:
+	print(fibonacci, end="\n")
 	count += 1
-	num1, num2 = num2, next_number
-	next_number = num1 + num2
-print()
-
-5 5 5 4 segments cifre ændring
+	num1, num2 = num2, fibonacci
+	fibonacci = num1 + num2
