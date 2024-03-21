@@ -22,7 +22,7 @@ def emailCheck():
                 emailCheck()
         elif 7 >= length or 30 <= length:
             print("Your email was",length,"characters long.")
-            print("It must be between 8-30 characters long.")
+            print("It must be between 7-30 characters long.")
             emailCheck()
 
         else:
