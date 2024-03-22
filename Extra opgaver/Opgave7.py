@@ -10,8 +10,8 @@ def PrimeNumbers():
                     #print(i,"is not a prime number")
                     break
             else:
-                #print(i,"is a prime number")
                 numberPosition += 1
+                print(i, "is prime number", numberPosition)
 
                 if numberPosition == positionWanted:
                     print(i,"er nummer",positionWanted,"primtal i rækken")
